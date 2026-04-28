@@ -1,4 +1,4 @@
-# Robot Dog
+# QC3F – Quadruped Control Framework
 
 A quadruped robot dog with inverse kinematics servo control, built with MicroPython.
 
