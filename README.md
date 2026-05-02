@@ -3,7 +3,7 @@
 A quadruped robot dog with inverse kinematics servo control, built with MicroPython.
 
 ## Overview
-his project implements a four‑legged robot‑dog control framework with multiple gaits and varios movements powered by inverse kinematics for example(gait,trot,sit,stand). It provides a modular control platform for a 4‑leg, 3‑DOF‑per‑leg setup, allowing users to operate the robot at different abstraction levels. The code is written in MicroPython and was tested on a Raspberry Pi Pico.
+This project implements a four‑legged robot‑dog control framework with multiple gaits and varios movements powered by inverse kinematics for example(gait,trot,sit,stand). It provides a modular control platform for a 4‑leg, 3‑DOF‑per‑leg setup, allowing users to operate the robot at different abstraction levels. The code is written in MicroPython and was tested on a Raspberry Pi Pico.
 
 ## Project Details
 
